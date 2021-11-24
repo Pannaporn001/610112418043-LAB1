@@ -7,3 +7,4 @@ var addFn = function (a,b) {
 }
 
 console.log(add(5,3));
+let morning = 0
